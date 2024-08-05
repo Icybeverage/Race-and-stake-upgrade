@@ -1,6 +1,4 @@
-# The Race and Stake Game
 
-The workshop demonstrates how to store, manage, and extend data using nested tokens within the Unique Network.
 
 
 # The Race and Stake Game
